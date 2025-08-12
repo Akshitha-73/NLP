@@ -1,0 +1,9 @@
+# Requirements
+
+
+1. Python 3.x
+2. NLTK
+3. SpaCy
+4. Scikit-learn
+5. Gensim
+6. Pandas, NumPy
